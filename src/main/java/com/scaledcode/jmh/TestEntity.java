@@ -1,4 +1,4 @@
-package com.mastercontrol.jmh;
+package com.scaledcode.jmh;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.mastercontrol.jmh;
+package com.scaledcode.jmh;
 
 import org.openjdk.jmh.annotations.Benchmark;
 import org.openjdk.jmh.annotations.BenchmarkMode;

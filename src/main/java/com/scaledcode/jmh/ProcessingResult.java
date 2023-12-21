@@ -1,4 +1,4 @@
-package com.mastercontrol.jmh;
+package com.scaledcode.jmh;
 
 public enum ProcessingResult {
     SUCCESS,
